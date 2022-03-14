@@ -1,0 +1,5 @@
+napraviti da ima prikaz generalnih informacija naloga
+napraviti da koristnik moze staviti koji item da prati na marketplaceu
+napraviti da se dobijaju notifikacije pracenih itema
+napraviti da ima prikaz sta korisnik moze craftovati od svojih itema u banci
+napraviti da ima prikaz banke, karaktera, i inventorya

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_icon_frame"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/layout_icon_background"
+        android:layout_width="51sp"
+        android:layout_height="51sp"
+        android:background="@color/white"
+        android:padding="1sp">
+
+        <ImageView
+            android:id="@+id/image_itemIcon"
+            android:layout_width="50sp"
+            android:layout_height="50sp"
+            android:layout_centerInParent="true"
+            android:contentDescription="@string/description_item_icon"
+            app:srcCompat="@drawable/icon_image_load_error" />
+
+        <TextView
+            android:id="@+id/textView_itemAmount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/image_itemIcon"
+            android:layout_alignEnd="@id/image_itemIcon"
+            android:layout_marginTop="3dp"
+            android:layout_marginEnd="3dp"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:gravity="end"
+            android:shadowColor="@color/black"
+            android:shadowDy="0"
+            android:shadowRadius="3"
+            android:text="@string/number_zero"
+            android:textColor="#fef1c4"
+            android:textSize="14sp"
+            android:visibility="invisible"
+            tools:visibility="visible" />
+    </RelativeLayout>
+
+</LinearLayout>

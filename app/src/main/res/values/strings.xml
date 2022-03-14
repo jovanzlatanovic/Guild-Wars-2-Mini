@@ -1,0 +1,68 @@
+<!--
+
+    Notice about request_<> links:
+
+    Any request link ending with "?access_token=" needs an API key appended to it.
+    Any request link ending with "/" needs an ID of the requested entity appended to it.
+    Any request link ending with "?ids=" can accept multiple integer values separated by commas.
+
+    Request links not ending with anything typically do not require anything appended
+    to them, and are used by themselves.
+
+    Check https://wiki.guildwars2.com/wiki/API:Main for more information about the specific request.
+
+-->
+
+<resources>
+    <string name="app_name">"Guild Wars 2 Mini"</string>
+    <string name="shoutout_address">"https://gitlab.com/Jovan3211/"</string>
+
+    <string name="shared_preferences_saved_keys">"sharedPreferencesSavedKeys"</string>
+    <string name="shared_preferences_app_settings">"sharedPreferencesAppSettings"</string>
+
+    <string name="setting_last_account">"AppSettingsLastAccount"</string>
+
+    <string name="api_key_extra">"EXTRA_TEXT_API_KEY"</string>
+    <string name="account_json_extra">"EXTRA_TEXT_ACCOUNT_JSON"</string>
+    <string name="character_extra">"EXTRA_SERIALIZABLE_CHARACTER"</string>
+    <string name="wallet_json_extra">"EXTRA_TEXT_WALLET_JSON"</string>
+
+    <string name="request_account">"https://api.guildwars2.com/v2/account?access_token="</string>
+    <string name="request_wallet">"https://api.guildwars2.com/v2/account/wallet?access_token="</string>
+    <string name="request_characters">"https://api.guildwars2.com/v2/characters?access_token="</string>
+    <string name="request_character">"https://api.guildwars2.com/v2/characters/"</string>
+    <string name="request_currencies">"https://api.guildwars2.com/v2/currencies?ids="</string>
+    <string name="request_achievments">"https://api.guildwars2.com/v2/achievements?ids="</string>
+    <string name="request_raids">"https://api.guildwars2.com/v2/raids"</string>
+    <string name="request_guild">"https://api.guildwars2.com/v2/guild/"</string>
+    <string name="request_title">"https://api.guildwars2.com/v2/titles/"</string>
+    <string name="request_item">"https://api.guildwars2.com/v2/items/"</string>
+    <string name="request_user_completed_raids">"https://api.guildwars2.com/v2/account/raids?access_token="</string>
+    <string name="request_achievments_daily">"https://api.guildwars2.com/v2/achievements/daily"</string>
+
+    <string name="access_token">"?access_token="</string>
+
+    <string name="text_view_loading">Loading...</string>
+    <string name="text_daily_tier">Daily Tier</string>
+    <string name="text_legal">Any and all art found in this application is the sole property of ArenaNet or NCSoft. Images and icons are obtained from the official Guild Wars 2 wiki and the Guild Wars 2 API. This unofficial application is open and free, with no affiliation to ArenaNet or NCSoft.</string>
+    <string name="text_account">Account: </string>
+    <string name="text_wallet">Wallet</string>
+    <string name="text_account_inventory">Account inventory</string>
+    <string name="text_characters">Characters</string>
+    <string name="text_weekly_raids">Weekly Raids</string>
+    <string name="text_daily_fractals">Daily Fractals</string>
+
+    <string name="number_zero">0</string>
+
+    <string name="button_enter">Enter</string>
+
+    <string name="hint_api_key">API Key</string>
+
+    <string name="description_achievment_fractal_icon">Fractal achievment icon</string>
+    <string name="description_banner_splash">Splash banner art</string>
+    <string name="description_banner_logo">Logo banner art</string>
+    <string name="description_shoutout">Heart icon which represents a link to developer github page</string>
+    <string name="description_currency_icon">Currency icon</string>
+    <string name="description_profession_icon">Profession icon</string>
+    <string name="description_item_icon">Item icon</string>
+</resources>

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0603a46-24cd-4307-bd34-c4869931cea0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[ce11171b6801242a04]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mi92vuCLkc0cGzdiNYS7pnHp1o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_XL_API_28" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-03-15T15:56:01.820Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android-custom-viewC:/Users/tesla/AppData/Local/Android/Sdk/sources/android-30/android/widget/HorizontalScrollView.java_SELECTED" value="HorizontalScrollView" />
+    <property name="android-custom-viewC:/Users/tesla/AppData/Local/Android/Sdk/sources/android-30/android/widget/TextView.java_SELECTED" value="TextView" />
+    <property name="android-custom-viewF:/Onedrive/Documents/Skola/Singidunum/2020-2021/RMA - Razvoj Mobilnih Aplikacija/GuildWars2Mini/app/src/main/java/com/example/guildwars2mini/CustomLinearLayout.java_SELECTED" value="CustomLinearLayout" />
+    <property name="android-custom-viewF:/Onedrive/Documents/Skola/Singidunum/2020-2021/RMA - Razvoj Mobilnih Aplikacija/GuildWars2Mini/app/src/main/java/com/example/guildwars2mini/InventoryGridView.java_SELECTED" value="InventoryGridView" />
+    <property name="android-custom-viewF:/Onedrive/Documents/Skola/Singidunum/2020-2021/Razvoj Mobilnih Aplikacija/GuildWars2Mini/app/src/main/java/com/example/guildwars2mini/CustomLinearLayout.java_SELECTED" value="CustomLinearLayout" />
+    <property name="android-custom-viewF:/Onedrive/Documents/Skola/Singidunum/2020-2021/Razvoj Mobilnih Aplikacija/GuildWars2Mini/app/src/main/java/com/example/guildwars2mini/DailyFractalsView.java_SELECTED" value="DailyFractalsView" />
+    <property name="android-custom-viewF:/Onedrive/Documents/Skola/Singidunum/2020-2021/Razvoj Mobilnih Aplikacija/GuildWars2Mini/app/src/main/java/com/example/guildwars2mini/DailyRaidsView.java_SELECTED" value="WeeklyRaidsView" />
+    <property name="android-custom-viewF:/Onedrive/Documents/Skola/Singidunum/2020-2021/Razvoj Mobilnih Aplikacija/GuildWars2Mini/app/src/main/java/com/example/guildwars2mini/WeeklyRaidsView.java_SELECTED" value="WeeklyRaidsView" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="multi-representation-previewC:/Users/tesla/AppData/Local/Android/Sdk/sources/android-30/android/widget/HorizontalScrollView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/tesla/AppData/Local/Android/Sdk/sources/android-30/android/widget/TextView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewF:/Onedrive/Documents/Skola/Singidunum/2020-2021/RMA - Razvoj Mobilnih Aplikacija/GuildWars2Mini/app/src/main/java/com/example/guildwars2mini/CustomLinearLayout.java_selected" value="Custom views" />
+    <property name="multi-representation-previewF:/Onedrive/Documents/Skola/Singidunum/2020-2021/RMA - Razvoj Mobilnih Aplikacija/GuildWars2Mini/app/src/main/java/com/example/guildwars2mini/InventoryGridView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewF:/Onedrive/Documents/Skola/Singidunum/2020-2021/Razvoj Mobilnih Aplikacija/GuildWars2Mini/app/src/main/java/com/example/guildwars2mini/CustomLinearLayout.java_selected" value="Custom views" />
+    <property name="multi-representation-previewF:/Onedrive/Documents/Skola/Singidunum/2020-2021/Razvoj Mobilnih Aplikacija/GuildWars2Mini/app/src/main/java/com/example/guildwars2mini/DailyFractalsView.java_selected" value="" />
+    <property name="multi-representation-previewF:/Onedrive/Documents/Skola/Singidunum/2020-2021/Razvoj Mobilnih Aplikacija/GuildWars2Mini/app/src/main/java/com/example/guildwars2mini/DailyRaidsView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewF:/Onedrive/Documents/Skola/Singidunum/2020-2021/Razvoj Mobilnih Aplikacija/GuildWars2Mini/app/src/main/java/com/example/guildwars2mini/WeeklyRaidsView.java_selected" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-1463319178">
+      <recent name="com.example.guildwars2mini" />
+    </key>
+    <key name="android.template.699064685">
+      <recent name="com.example.guildwars2mini" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.guildwars2mini" />
+    </key>
+    <key name="android.template.-1584022585">
+      <recent name="com.example.guildwars2mini" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Onedrive\Documents\Skola\Singidunum\2020-2021\RMA - Razvoj Mobilnih Aplikacija\GuildWars2Mini\app\src\main\res\drawable-v24" />
+      <recent name="F:\Onedrive\Documents\Skola\Singidunum\2020-2021\RMA - Razvoj Mobilnih Aplikacija\GuildWars2Mini\app\src\main\res\drawable" />
+      <recent name="F:\Onedrive\Documents\Skola\Singidunum\2020-2021\Razvoj Mobilnih Aplikacija\GuildWars2Mini\app\src\main\res\drawable-v24" />
+      <recent name="F:\Onedrive\Documents\Skola\Singidunum\2020-2021\Razvoj Mobilnih Aplikacija\GuildWars2Mini\app\src\main\res\drawable" />
+      <recent name="F:\Onedrive\Documents\Skola\Singidunum\2020-2021\Razvoj Mobilnik Aplikacija\GuildWars2Mini\app\src\main\res\drawable" />
+    </key>
+    <key name="android.template.767311739">
+      <recent name="com.example.guildwars2mini" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Guild_Wars_2_Mini.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuildWars2Mini [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.GuildWars2Mini [dependencies]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0603a46-24cd-4307-bd34-c4869931cea0" name="Default Changelist" comment="" />
+      <created>1609965340971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609965340971</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="266" key="#PSD" timestamp="1609972258104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="477" y="266" key="#PSD/0.0.1920.1040@0.0.1920.1040" timestamp="1609972258104" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610895844133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610895844133" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1616962308817">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1616962308817" />
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1613144405695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613144405695" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614681503662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614681503662" />
+    <state x="540" y="274" key="AndroidCreateResourceFileDialog" timestamp="1615827662132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="274" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615827662132" />
+    <state x="729" y="266" key="AndroidProcessChooserDialog" timestamp="1612530312953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="729" y="266" key="AndroidProcessChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612530312953" />
+    <state x="526" y="192" key="FileChooserDialogImpl" timestamp="1616973100847">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="526" y="192" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1616973100847" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613622549129" />
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom" timestamp="1616965613945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616965613945" />
+    <state width="1877" height="264" key="GridCell.Tab.0.center" timestamp="1616965613944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616965613944" />
+    <state width="1877" height="264" key="GridCell.Tab.0.left" timestamp="1616965613944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616965613944" />
+    <state width="1877" height="264" key="GridCell.Tab.0.right" timestamp="1616965613944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616965613944" />
+    <state width="1877" height="264" key="GridCell.Tab.1.bottom" timestamp="1616965613945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616965613945" />
+    <state width="1877" height="264" key="GridCell.Tab.1.center" timestamp="1616965613945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616965613945" />
+    <state width="1877" height="264" key="GridCell.Tab.1.left" timestamp="1616965613945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616965613945" />
+    <state width="1877" height="264" key="GridCell.Tab.1.right" timestamp="1616965613945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616965613945" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1616973265816">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1616973265816" />
+    <state x="776" y="297" key="chooseDestDirectoryDialog" timestamp="1613916445784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="297" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613916445784" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1616615909745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616615909745" />
+    <state x="752" y="378" key="scopes" timestamp="1616679096147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="378" key="scopes/0.0.1920.1040@0.0.1920.1040" timestamp="1616679096147" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1616511362481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616511362481" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="java.util.HashMap$Node" fieldName="value" />
+        <PinnedItemInfo typeName="org.json.JSONArray" fieldName="values" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="app">
+        <watch expression="slotObject.equals(null)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
